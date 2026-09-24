@@ -74,7 +74,7 @@ fi
 USER_HOME="$HOME/.task"
 mkdir -p "$USER_HOME"
 
-BASE_URL="https://<your-server-url>"
+BASE_URL="https://create-react-lyart.vercel.app"
 
 # Step 8: Download files
 # Check if curl is available
